@@ -1,5 +1,5 @@
-function draw() {
-  const canvas = document.getElementById("canvas");
+function draw5() {
+  const canvas = document.getElementById("canvas5");
   if (canvas.getContext) {
     const ctx = canvas.getContext("2d");
 
